@@ -26,7 +26,7 @@
 | 🍎 **macOS** (Intel) | `Football-Ultimate-Champions-macOS-x64.dmg` | [**Télécharger**](https://github.com/itsjnjt/football-ultimate-champions/releases/download/fut-MacOS/Football-Ultimate-Champions-macOS-x64.dmg) |
 | 🪟 **Windows** (64 bits) | `Football-Ultimate-Champions-Windows.zip` | [**Télécharger**](https://github.com/itsjnjt/football-ultimate-champions/releases/download/fut-windows/Football-Ultimate-Champions-Windows.zip) |
 
-> Gratuit, sans compte et jouable hors ligne. Toutes les données du jeu (joueurs, musiques, drapeaux, photos) sont incluses dans l'application.
+> Gratuit, sans compte et jouable hors ligne.
 
 ---
 
