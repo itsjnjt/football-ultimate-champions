@@ -22,9 +22,8 @@
 
 | Plateforme | Fichier | |
 |:--|:--|:--:|
-| 🍎 **macOS** (Apple Silicon : M1, M2, M3, M4…) | `Football-Ultimate-Champions-macOS-arm64.dmg` | [**Télécharger**](https://github.com/itsjnjt/football-ultimate-champions/releases/download/fut-MacOS/Football-Ultimate-Champions-macOS-arm64.dmg) |
-| 🍎 **macOS** (Intel) | `Football-Ultimate-Champions-macOS-x64.dmg` | [**Télécharger**](https://github.com/itsjnjt/football-ultimate-champions/releases/download/fut-MacOS/Football-Ultimate-Champions-macOS-x64.dmg) |
-| 🪟 **Windows** (64 bits) | `Football-Ultimate-Champions-Windows.zip` | [**Télécharger**](https://github.com/itsjnjt/football-ultimate-champions/releases/download/fut-windows/Football-Ultimate-Champions-Windows.zip) |
+| 🍎 **macOS** (Apple Silicon : M1, M2, M3, M4…) | `Football-Ultimate-Champions-macOS-arm64.dmg` | [**Télécharger**](https://github.com/itsjnjt/football-ultimate-champions/releases/download/small-update/football-ultimate-champions-mac.zip) |
+| 🪟 **Windows** (64 bits) | `Football-Ultimate-Champions-Windows.zip` | [**Télécharger**](https://github.com/itsjnjt/football-ultimate-champions/releases/download/small-update/football-ultimate-champions-win.zip) |
 
 > Gratuit, sans compte et jouable hors ligne.
 
